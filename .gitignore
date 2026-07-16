@@ -11,5 +11,5 @@ demo/cache/
 demo/eingang/upload-*
 corpus/upload-*
 slides/praesentation.html
-# Arbeitskopie — wird von `make reset` aus seed/wiki erzeugt
-wiki/
+# Arbeitskopie — wird von `make reset` aus seed/wiki erzeugt (nur die Wurzel!)
+/wiki/
