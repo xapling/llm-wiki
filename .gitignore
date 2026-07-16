@@ -1,0 +1,15 @@
+.venv/
+.chroma/
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+.env
+.env.local
+# Laufzeit-Artefakte (aufgezeichnete Antworten, hochgeladene Demo-Dokumente)
+demo/cache/
+demo/eingang/upload-*
+corpus/upload-*
+slides/praesentation.html
+# Arbeitskopie — wird von `make reset` aus seed/wiki erzeugt
+wiki/

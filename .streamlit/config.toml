@@ -1,0 +1,8 @@
+# Datei-Wächter aus: vermeidet die bekannten torch/Streamlit-Konsolenfehler
+# ("Tried to instantiate class '__path__._path'"). Kostet nur Hot-Reload —
+# nach Code-Änderungen die App neu starten.
+[server]
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
