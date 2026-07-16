@@ -10,6 +10,7 @@ __pycache__/
 demo/cache/
 demo/eingang/upload-*
 corpus/upload-*
-# ist aber bewusst mit im Repo, damit die Folien ohne Setup anschaubar sind.
+# Hinweis: slides/praesentation.html wird generiert (make slides), liegt aber
+# bewusst mit im Repo, damit die Folien ohne Setup anschaubar sind.
 # Arbeitskopie — wird von `make reset` aus seed/wiki erzeugt (nur die Wurzel!)
 /wiki/
